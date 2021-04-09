@@ -1,6 +1,7 @@
 # jQuery Scroll Image Inside v0.1
 A jQuery plugin allowing you to scroll an image within a container element
-[![Demo](http://img.shields.io/bower/v/jquery-github.svg?style=flat)]
+
+[![Demo](https://github.com/ashwebstudio/jquery-scrollimageinside/blob/main/assets/demo.gif)]
 
 # Usage
 ```html
