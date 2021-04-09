@@ -1,7 +1,7 @@
 # jQuery Scroll Image Inside v0.1
 A jQuery plugin allowing you to scroll an image within a container element
 
-[![Demo](https://github.com/ashwebstudio/jquery-scrollimageinside/blob/main/assets/demo.gif)]
+![Demo](https://github.com/ashwebstudio/jquery-scrollimageinside/blob/main/assets/demo.gif)
 
 # Usage
 ```html
@@ -9,7 +9,7 @@ A jQuery plugin allowing you to scroll an image within a container element
     <img src="really-long-image.jpg" alt="" />
 </div>
 <script>
-$( document ).ready(function($){
+$( document ).ready(function(){
 	$( '#element' ).scrollimageinside();
 });
 </script>
@@ -31,3 +31,6 @@ $( '#element' ).scrollimageinside({
     height: 500 // Explicitly set height of scroll window if not set in your own CSS
 });
 ```
+
+# Examples
+See the examples folder or [my portfolio site this was built for](https://www.ashwebstudio.com/portfolio/sunshine-photo-cart/)
